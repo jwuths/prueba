@@ -29,9 +29,9 @@ Los datos de conexión son los siguientes:
 5. Ajuste un modelo de regresión logística, un random forest, un catboost y un modelo de su elección.
 6. Agregue un método de evaluación(llamado evaluation), es es que calcule la curva de ROC, así como el accuracy, recall, precisión y puntaje F1. Para el caso del accuracy, precisión y recall de la logística, calcúlelo usando como punto de corte el con mejor puntaje F1.
 7. Calcule la importancia de las variables según el criterio que usted prefiera (debe explicar el elegido) ¿Qué variables son más relevantes a la hora de definir un cliente moroso? Interprete.
-8. Compare los modelos y elegija al que a su juicio, ajuste mejor.
-9. ¿Cómo se podrí­a aplicar esto si este modelo se ejecuta una vez al mes?
+8. Compare los modelos y elija al que a su juicio, ajuste mejor.
+9. ¿Cómo se podría aplicar esto si este modelo se ejecuta una vez al mes?
 
 La entrega es en un Jupyter Notebook en Python o R a los correos rodrigo@karrott.cl y jorge@karrott.cl en un plazo de 48 horas recibido el correo de notificación.
 
-> **Nota**: Este enunciado, junto con los datos a ocupar también se puede encontrar en https://github.com/karrott-brain/Caso-Data-Science. Sin embargo, se recomienda obtener los datos desde el servidor MySQL indicado.
+> **Nota**: En la carpeta data de este repositorio se pueden se pueden encontrar los datos a utilizar, sin embargo, se recomienda obtener los datos desde el servidor MySQL indicado.
